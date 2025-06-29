@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ketaki Galgale</h1>
-<h3 align="center">I love Web Development ❤</h3>
+<h3 align="center">Passionate Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ketakigalgale&label=Profile%20views&color=0e75b6&style=flat" alt="ketakigalgale" />
