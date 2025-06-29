@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ketaki Galgale</h1>
-<h3 align="center"> Third year student at Cummins college of engineering , Pune 
-  I love web development ❤</h3>
+<h3 align="center"> I love web development ❤</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketakigalgale&label=Profile%20views&color=0e75b6&style=flat" alt="ketakigalgale" /> </p>
 
