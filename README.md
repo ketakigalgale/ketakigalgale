@@ -1,10 +1,29 @@
+<img width="912" height="679" alt="image" src="https://github.com/user-attachments/assets/97105c06-b3f8-4aa4-a09e-b4791b14a241" /><h1 align="center">Hi 👋, I'm Ketaki Galgale</h1>
+<h3>Coding Enthusiast 👨🏻‍💻</h3> 
 
-<h1 align="center">Hi 👋, I'm Ketaki Galgale</h1>
-<h3 align="center">I love frontend development ❤</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ketakigalgale&label=Profile%20views&color=0e75b6&style=flat" alt="ketakigalgale" />
+</p>
 
+- 📫 How to reach me: **ketakigalgale19@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ketaki-galgale/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+ 
+  <a href="https://leetcode.com/u/ketaki_galgale/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/ketakigat0wa/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+  </a>
+  <a href="https://x.com/KGalgale26601" target="_blank" rel="noreferrer">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="Twitter/X" height="30" width="40" />
+  </a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketakigalgale&label=Profile%20views&color=0e75b6&style=flat" alt="ketakigalgale" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ketakigalgale" alt="ketakigalgale" /></a> </p>
 
 - 📫 How to reach me **ketakigalgale19@gmail.com**
 
@@ -22,15 +41,3 @@
 
 
 
-<!--
-**ketakigalgale/ketakigalgale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub prof
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
