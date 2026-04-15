@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## 👩‍💻 About Me<br><br>- 🔭 Currently working on **AI-powered web apps using Next.js + LLM APIs**<br>- 🤝 Looking to collaborate on **full-stack & open-source projects**<br>- 🛠️ Experienced in **Next.js, React, Node.js, MongoDB, Supabase**<br>- 🌱 Currently learning **system design & scalable architectures**<br>- 💬 Ask me about **frontend performance, APIs, or open-source contributions**<br>- ⚡ Fun fact: I debug faster than I panic 😄
 
 
