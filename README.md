@@ -1,5 +1,5 @@
 
-## 👩‍💻 About Me<br><br>- 🤝 Looking to collaborate on **full-stack & open-source projects**<br>- 🛠️ Experienced in **Next.js, React, Node.js, MongoDB, Supabase**<br>
+## Hi,I am ketaki<br><br>- 🤝 Looking to collaborate on **full-stack & open-source projects**<br>- 🛠️ Experienced in **Next.js, React, Node.js, MongoDB, Supabase**<br>
 
 
 ## 🌐 Socials:
